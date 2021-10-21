@@ -129,3 +129,4 @@ jobs:
         asset_path: ./Openwrt.tar.gz
         asset_name: Openwrt.tar.gz
         asset_content_type: application/gzip
+# 10.21
